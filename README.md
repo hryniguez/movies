@@ -1,6 +1,4 @@
-TITULO: MOVIES
-LISTA DE INTEGRANTES:
-Tiziano Orieta -
-Emmanuel Heredia - 
-Fernando Ortiz -
-Horacio Yñiguez -
+Fernando Ortiz
+Emmanel Heredia
+Tiziano Orieta
+Horacio Yñiguez
