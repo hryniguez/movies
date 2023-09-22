@@ -1,4 +1,4 @@
 Fernando Ortiz
-Emmanel Heredia, 31 años, Cordoba Capital
+Emmanel Heredia
 Tiziano Orieta
-Horacio Yñiguez, 49 años, Ciudad Autonoma de Buenos Aires.
+Horacio Yñiguez
